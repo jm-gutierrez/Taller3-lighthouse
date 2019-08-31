@@ -71,5 +71,5 @@ window.addEventListener('appinstalled', logAppInstalled);
  */
 function logAppInstalled(evt) {
   // CODELAB: Add code to log the event
-  console.log('Aplicación meteorológica fue instalada.', evt);
+  console.log('Aplicación de estaciones fue instalada.', evt);
 }
